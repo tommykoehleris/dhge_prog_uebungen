@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639060264 source:f:\programmierung\u15 nagelbrett\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1639132336 source:f:\programmierung\u17 lotto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

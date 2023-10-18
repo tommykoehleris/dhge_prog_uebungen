@@ -1,0 +1,7 @@
+void sort(int arr[], int anzahl)
+{
+    for(int pos = 1; pos < anzahl; ++pos) {
+        for(int i = pos; (i > 0) && kleiner(arr, i , i - 1); --i) {
+            tausche(arr, i, i - 1);
+        }
+  
