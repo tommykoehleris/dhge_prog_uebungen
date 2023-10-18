@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1638712752 source:c:\users\mrknu\onedrive\programmierung\min_max_zahl\min_max_zahl\main.c
+	<stdio.h>
+	<stdlib.h>
+

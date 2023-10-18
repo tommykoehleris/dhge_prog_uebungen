@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1639057182 source:f:\programmierung\min_max_zahl\würfeln\main.c
+	<stdio.h>
+	<stdlib.h>
+
